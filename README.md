@@ -12,10 +12,12 @@
 </p>
 
 ## About
+<img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" align="right" width="400">
 
 - 🌱 I’m currently learning and exploring
 
 - 💬 Feel free to ask me any questions.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
