@@ -1,15 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Konstantinos Dalageorgos</h1>
+<h1 align="center">Hey there 👋🏻, I'm <a href="https://github.com/Dalageo"> Dalageo </a> </h1>
 <h3 align="center">A passionate Artificial Intelligence and Automation enthusiast with a solid background in Machine Learning and Deep Learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/I3nXQEt.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dalageo&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <a href="https://github.com/Dalageo/stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Dalageo?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" alt="Total stars on GitHub"/>
+  </a>
+  <a href="https://github.com/Dalageo?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dalageo?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="Follow me on Github"/>
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalageo&label=Profile%20views&color=0e75b6&style=flat" alt="dalageo" /> </p>
+## About
 
 - 🌱 I’m currently learning and exploring
 
 - 💬 Feel free to ask me any questions.
-
-- 📫 You can reach me at konstantinos.dalageorgos@student.hv.se
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
