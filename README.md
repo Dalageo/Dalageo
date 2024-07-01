@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/konstantinos-dalageorgos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konstantinos dalageorgos" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <span style="display: inline-block;"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></span>
   <span style="display: inline-block;"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></span>
@@ -34,9 +34,23 @@
   <span style="display: inline-block;"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></span>
 </p>
 
+## Stats & Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalageo&show_icons=true&locale=en&layout=compact" alt="dalageo" /></p>
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+<p align="center">
+  <a href="https://github.com/dalageo">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dalageo&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalageo&show_icons=true&locale=en" alt="dalageo" /></p>
+## Top Repositories
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalageo&" alt="dalageo" /></p>
+<p align="center">
+  <a href="https://github.com/Dalageo/TwinCAT-VirtualElevator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=TwinCAT-VirtualElevator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="TwinCAT-VirtualElevator"></a>
+  <a href="https://github.com/Dalageo/TwinCAT-VirtualAGV"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=TwinCAT-VirtualAGV&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="TwinCAT-VirtualAGV"></a>
+  <a href="https://github.com/Dalageo/TwinCAT-VirtualTram"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=TwinCAT-VirtualTram&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="TwinCAT-VirtualTram"></a>
+</p>
+
+
