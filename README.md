@@ -11,10 +11,10 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 <div align="center">
 
 <p align="center">
-  <em>Feel free to check out my Master's Thesis on <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">DiVA (Digitala Vetenskapliga Arkivet)</a> and delve into the research findings!</em>
+  <em>Feel free to check it out on <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">DiVA (Digitala Vetenskapliga Arkivet)</a> and delve into the research findings!</em>
 </p>
 
-<hr style="border: none; height: 10px;">
+<br style="line-height: 5px;" />
 
 <div align="center">
   
