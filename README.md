@@ -2,7 +2,7 @@
   
 # Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
 
-A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model in Laser Metal Deposition Imaging."** The research focused on optimizing the Laser Metal Deposition process using AI, specifically exploring [**Transformers**](https://arxiv.org/abs/1706.03762), a popular and widely adopted model architecture in AI, and its specialized variant, [**Vision Transformers**](https://arxiv.org/abs/2010.11929), which has shown great success in computer vision tasks.
+A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored optimizing the Laser Metal Deposition process using AI, specifically [**Transformers**](https://arxiv.org/abs/1706.03762), a popular and widely adopted model architecture in AI, and its specialized variant, [**Vision Transformers**](https://arxiv.org/abs/2010.11929), which has shown great success in computer vision tasks.
 
 ### 📘 Curious to explore my work?
 <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">
