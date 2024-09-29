@@ -1,28 +1,46 @@
-<h1 align="center">Hey there 👋🏻</h1>
-<h3 align="center">I'm <a href="https://github.com/Dalageo" target="_blank">Dalageo</a>, a passionate enthusiast of Artificial Intelligence and Automation, who is always eager to learn and tackle new challenges.</h3>
+<div align="center">
+  
+# Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
+
+A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model in Laser Metal Deposition Imaging."** The research focused on optimizing the **Laser Metal Deposition** process using AI, specifically exploring **Transformers**, a popular and widely adopted model architecture in AI, and its specialized variant, **Vision Transformers**, which has shown great success in computer vision tasks.
+
+### 📘 Curious to explore my work?
+<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/7b7222c0-c35f-43c6-8d58-028cf6b35b09" alt="Master's Thesis" width="120" height="80" style="border: 1px solid #ddd; border-radius: 5px;"/>
+</a>
+<div align="center">
 
 <p align="center">
+  <em>Feel free to check out my Master's Thesis on <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">DiVA (Digitala Vetenskapliga Arkivet)</a> and delve into the research findings!</em>
+</p>
+
+<hr style="border: none; height: 10px;">
+
+<div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=Dalageo&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/stars/Dalageo?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" alt="Total stars"/>
+  <img src="https://img.shields.io/github/stars/Dalageo?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" alt="Total stars"/>
   <a href="https://github.com/Dalageo?tab=followers">
     <img src="https://img.shields.io/github/followers/Dalageo?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="Follow me on Github"/>
   </a>
-</p>
+  
+</div>
+
+<div align="left">
 
 ## About Me
+
 <p>
 <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 430px; height: 350px;" align="right">
 </p>
 
-- Currently Learning and Exploring 🌱
+- Currently Learning and Exploring 🌱  
+- Actively Working on Projects 💡  
+- Keeping Myself Updated 📚  
+- Always Open to Collaborating on Exciting Projects 🤝  
+- Feel Free to Ask Me Any Questions 💬  
 
-- Actively Working on Projects 💡
-
-- Keeping Myself Updated 📚
-
-- Always Open to Collaborating on Exciting Projects 🤝
-
-- Feel Free to Ask Me Any Questions 💬
+</div>
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
@@ -57,7 +75,12 @@
   <span style="display: inline-block;"><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Vs-logo" width="40" height="40"/></a></span>
 </p>
 
+
+<div align="left">
+
 ## Stats & Activity
+
+</div>
 
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
@@ -68,7 +91,11 @@
 </a> 
 </p>
 
+<div align="left">
+
 ## Top Repositories
+
+</div>
 
 <p align="center">
   <a href="https://github.com/Dalageo/TwinCAT-VirtualElevator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=TwinCAT-VirtualElevator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="TwinCAT-VirtualElevator"></a>
