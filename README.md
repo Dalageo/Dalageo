@@ -42,11 +42,14 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 
 </div>
 
-<h3 align="left">Contact Me:</h3>
+<h3 align="left">Find Me On:</h3>
 <p align="left">
   <a href="mailto:kon.dalageorgos@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="konstantinos dalageorgos" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/konstantinos-dalageorgos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="konstantinos dalageorgos" height="38" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/konstantinos-dalageorgos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="konstantinos dalageorgos" height="38" width="40" /></a>
+  <a href="https://www.kaggle.com/dalageo" target="blank">
+  <img align="center" src="https://github.com/user-attachments/assets/11162eac-4c5d-4bf8-9f54-351832c58654" alt="Kaggle Profile" height="47" width="35" />
+</a>
+
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
