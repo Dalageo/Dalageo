@@ -34,11 +34,11 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 430px; height: 350px;" align="right">
 </p>
 
-- Currently Learning and Exploring 🌱  
-- Actively Working on Projects 💡  
-- Keeping Myself Updated 📚  
-- Always Open to Collaborating on Exciting Projects 🤝  
-- Feel Free to Ask Me Any Questions 💬  
+* Currently Learning and Exploring 🌱  
+* Actively Working on Projects 💡  
+* Keeping Myself Updated 📚  
+* Always Open to Collaborating on Exciting Projects 🤝  
+* Feel Free to Ask Me Any Questions 💬  
 
 </div>
 
@@ -91,8 +91,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </p>
 <p align="center">
   <a href="https://github.com/dalageo">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dalageo&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dalageo&theme=dark&hide_border=true&stroke=f53b3b"/> </a> 
 </p>
 
 <div align="left">
