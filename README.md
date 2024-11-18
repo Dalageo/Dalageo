@@ -26,7 +26,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
   
 </div>
 
-<div align="left"> 
+<div align="left">
   
 ## About Me
 </div>
@@ -103,9 +103,9 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <p align="center">
-  <a href="https://github.com/Dalageo/ML-TitanicShipwreck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-TitanicShipwreck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-TitanicShipwreck"></a>
+  <a href="https://github.com/Dalageo/DL-PaperClipInspection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=DL-PaperClipInspection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="DL-PaperClipInspection"></a>
   <a href="https://github.com/Dalageo/ML-GasSensorDrift"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-GasSensorDrift&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-GasSensorDrift"></a>
-  <a href="https://github.com/Dalageo/TwinCAT-VirtualElevator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=TwinCAT-VirtualElevator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="TwinCAT-VirtualElevator"></a>
+  <a href="https://github.com/Dalageo/ML-TitanicShipwreck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-TitanicShipwreck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-TitanicShipwreck"></a>
 </p>
 
 
