@@ -30,9 +30,9 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 
 ## About Me
 
-<p>
+<div>
 <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 430px; height: 350px;" align="right">
-</p>
+</div>
 
 * Currently Learning and Exploring 🌱  
 * Actively Working on Projects 💡  
