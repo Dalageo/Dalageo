@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="F1XXysrsT_LDhrjtGeUAqIuPZBPm0dlTLqUVxsmPa8k" />
+
 <div align="center">
   
 # Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
