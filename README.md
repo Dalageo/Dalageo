@@ -108,4 +108,5 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
   <a href="https://github.com/Dalageo/ML-TitanicShipwreck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-TitanicShipwreck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-TitanicShipwreck"></a>
 </p>
 
+<meta name="google-site-verification" content="qFX0wOsJXR5uyPw2G5CBRDCNedRFZpSFyXc06xRyvMs" />
 
