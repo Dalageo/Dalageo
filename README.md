@@ -1,7 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="qFX0wOsJXR5uyPw2G5CBRDCNedRFZpSFyXc06xRyvMs" />
-</head>
-
 <div align="center">
   
 # Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
