@@ -1,5 +1,6 @@
 <div align="center">
 <meta name="google-site-verification" content="qFX0wOsJXR5uyPw2G5CBRDCNedRFZpSFyXc06xRyvMs" />
+  
 # Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
 
 A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored a [**Transformer**](https://arxiv.org/abs/1706.03762)-based approach to optimize the Laser Metal Deposition process by detecting anomalies in captured images. It specifically applied a custom [**Vision Transformer**](https://arxiv.org/abs/2010.11929)-decoder architecture and introduced a novel method to achieve near-perfect accuracy.
