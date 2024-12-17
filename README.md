@@ -93,7 +93,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </p>
 <p align="center">
   <a href="https://github.com/dalageo">      
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalageo&theme=dark&hide_border=true&stroke=f53b3b" alt="Github Streak" /> </a> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
 </p>
 
 <div align="left">
