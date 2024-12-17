@@ -89,11 +89,11 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
+<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
 </p>
 <p align="center">
   <a href="https://github.com/dalageo">      
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
 </p>
 
 <div align="left">
@@ -103,9 +103,9 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <p align="center">
-  <a href="https://github.com/Dalageo/PaperClipInspection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=PaperClipInspection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="PaperClipInspection"></a>
-  <a href="https://github.com/Dalageo/ML-GasSensorDrift"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-GasSensorDrift&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-GasSensorDrift"></a>
-  <a href="https://github.com/Dalageo/GANScapeGenerator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=GANScapeGenerator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="GANScapeGenerator"></a>
+  <a href="https://github.com/Dalageo/PaperClipInspection"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=PaperClipInspection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="PaperClipInspection"></a>
+  <a href="https://github.com/Dalageo/GANScapeGenerator"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=GANScapeGenerator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="GANScapeGenerator"></a>
+  <a href="https://github.com/Dalageo/IDDRoadSegmentation"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=IDDRoadSegmentation&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="IDDRoadSegmentation"></a>
 </p>
 
 
