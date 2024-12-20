@@ -89,11 +89,11 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <p align="center">
-<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
+<img  width="450px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
 </p>
 <p align="center">
   <a href="https://github.com/dalageo">      
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
+<img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
 </p>
 
 <div align="left">
