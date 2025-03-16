@@ -46,11 +46,11 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
-  <a href="mailto:kon.dalageorgos@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="konstantinos dalageorgos" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/konstantinos-dalageorgos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="konstantinos dalageorgos" height="38" width="40" /></a>
-  <a href="https://www.kaggle.com/dalageo" target="blank">
-  <img align="center" src="https://github.com/user-attachments/assets/11162eac-4c5d-4bf8-9f54-351832c58654" alt="Kaggle Profile" height="47" width="35" />
-</a>
+  <a href="mailto:kon.dalageorgos@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="konstantinos dalageorgos" height="40" width="40"></a> &nbsp;
+  <a href="https://linkedin.com/in/konstantinos-dalageorgos" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="konstantinos dalageorgos" height="38" width="40"></a> &nbsp;
+  <a href="https://huggingface.co/Dalageo" target="blank"> <img align="center" src="https://github.com/user-attachments/assets/7d8d1514-5c09-4834-ae96-f895313489b4" alt="HuggingFace" height="40" width="40"></a> 
+  <a href="https://www.kaggle.com/dalageo" target="blank"> <img align="center" src="https://github.com/user-attachments/assets/11162eac-4c5d-4bf8-9f54-351832c58654" alt="Kaggle Profile" height="47" width="35"></a>
+</p>
 
 
 <h3 align="left">Languages & Tools:</h3>
