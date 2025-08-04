@@ -32,7 +32,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <div align="right">
-  <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 380px; height: 320px;" align="right">
+  <img src="https://github.com/user-attachments/assets/a0ae79be-f68b-4bed-8514-2c69ada82f45" alt="Brain-gif" style="width: 100%; max-width: 350px; height: 320px;" align="right">
 </div>
 
 <div align="left">
