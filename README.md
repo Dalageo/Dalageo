@@ -32,7 +32,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <div align="right">
-  <img src="https://github.com/user-attachments/assets/a0ae79be-f68b-4bed-8514-2c69ada82f45" alt="Brain-gif" style="width: 100%; max-width: 300px; height: 300px;" align="right">
+  <img src="https://github.com/user-attachments/assets/a0ae79be-f68b-4bed-8514-2c69ada82f45" alt="Brain-gif" style="width: 100%; max-width: 280px; height: 300px;" align="right">
 </div>
 
 <div align="left">
