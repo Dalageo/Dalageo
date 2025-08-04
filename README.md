@@ -32,7 +32,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <div align="right">
-  <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 430px; height: 350px;" align="right">
+  <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 300px; height: 300px;" align="right">
 </div>
 
 <div align="left">
@@ -52,61 +52,118 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
   <a href="https://www.kaggle.com/dalageo" target="blank"> <img align="center" src="https://github.com/user-attachments/assets/11162eac-4c5d-4bf8-9f54-351832c58654" alt="Kaggle Profile" height="47" width="35"></a>
 </p>
 
+<br>
+<br>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <span style="display: inline-block;"><a href="https://library.e.abb.com/public/688894b98123f87bc1257cc50044e809/Technical%20reference%20manual_RAPID_3HAC16581-1_revJ_en.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/3db0b3e9-57eb-47b8-bd1f-2666b4383ff8" alt="ABB-logo" width="43" height="43"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1503a7d8-6b0b-40b7-9cca-af81582142f0" alt="ASM-logo" width="43" height="43"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.autodesk.com/blogs/autocad/autocad-2024/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/41aa8968-9cda-4168-91f8-645af3d0c94e" alt="Autocad-logo" width="43" height="43"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1777bff1-6479-4d26-b849-5dee86759a96" alt="Numpy-logo" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" height="38"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/77637ceb-afaf-4115-a84d-7dc7aa0c5dc6" alt="Spyder-logo" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.beckhoff.com/en-en/products/automation/twincat/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/b24a09f9-9baf-4ea3-92ca-beef1bf3b762" alt="Twincat-logo" width="38" height="38"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Vs-logo" width="39" height="39"/></a></span>
-</p>
+<h2 align="left">My Core Expertise</h2>
 
+<table align="center">
+<tr>
+    <td align="center" width="220">
+      <strong>Programming Languages</strong>
+    </td>
+    <td>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="40" height="40"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1503a7d8-6b0b-40b7-9cca-af81582142f0" alt="ASM-logo" width="43" height="43"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="40" height="40"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/599f4828-cffd-4ffc-bdb0-d4a0551fa466" alt="HTML-logo" width="35" height="50"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18cde7f-d58e-483f-a24b-dc3a44111a3c" alt="SQL-logo" width="40" height="40"/></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <strong>Backend Development</strong>
+    </td>
+    <td>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6f451de1-a7ce-48fb-b133-964b200d2ed3" alt="fastapi" width="40" height="40"/></a> &nbsp;
+      <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" height="90"/></a> &nbsp;
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/></a> &nbsp;
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="40" height="40"/></a> &nbsp;
+      <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/023f1a25-82a3-4804-9e6b-fed8549151e5" alt="redis" width="40" height="40"/></a> &nbsp;
+      <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" height="38"/></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <strong>Cloud &amp; DevOps</strong>
+    </td>
+    <td>
+      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> &nbsp;
+      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b0cee235-900d-4975-8fb2-69e4119f32f3" alt="gcp" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" height="40"/></a> &nbsp;
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
+      <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/63e6d73f-2a14-48de-b5ff-5d3939639e0d" alt="cloudflare" width="40" height="40"/></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <strong>Machine Learning &amp; Data Science</strong>
+    </td>
+    <td>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> &nbsp;
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/></a> &nbsp;
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> &nbsp;
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> &nbsp;
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1777bff1-6479-4d26-b849-5dee86759a96" alt="Numpy-logo" width="40" height="40"/></a> &nbsp;
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> &nbsp;
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <strong>Generative AI &amp; LLMs</strong>
+    </td>
+    <td>
+      <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/></a> &nbsp;
+      <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/></a> &nbsp;
+      <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mistral-ai.svg" alt="mistral" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/aa89e4b7-5873-4341-a25d-700e64b20d15" alt="langsmith" width="40" height="60"/></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <strong>Development Environments</strong>
+    </td>
+    <td>
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Vs-logo" width="39" height="39"/></a> &nbsp;
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="40" height="40"/></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <strong>Industrial Engineering &amp; Automation</strong>
+    </td>
+    <td>
+      <a href="https://library.e.abb.com/public/688894b98123f87bc1257cc50044e809/Technical%20reference%20manual_RAPID_3HAC16581-1_revJ_en.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cee2e1a5-41e8-4a1e-b08d-0da67c635ae8" alt="ABB-logo" width="43" height="60"/></a> &nbsp;
+      <a href="https://www.beckhoff.com/en-en/products/automation/twincat/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/b24a09f9-9baf-4ea3-92ca-beef1bf3b762" alt="Twincat-logo" width="38" height="38"/></a> &nbsp;
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.autodesk.com/blogs/autocad/autocad-2024/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/41aa8968-9cda-4168-91f8-645af3d0c94e" alt="Autocad-logo" width="43" height="43"/></a> &nbsp;
+    </td>
+</tr>
+</table>
 
-<div align="left">
+<br clear="both" />
 
-## Stats & Activity
-
+<div>
+  <h2 align="left">Stats & Activity</h2>
+  <p align="center">
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
+    <br>
+    <a href="https://github.com/dalageo">
+      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-<img  width="450px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
-</p>
-<p align="center">
-  <a href="https://github.com/dalageo">      
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
-</p>
-
-<div align="left">
-
-## Top Repositories
-
+<div>
+  <h2 align="left">Top Repositories</h2>
+  <p align="center">
+    <a href="https://github.com/Dalageo/PaperClipInspection"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=PaperClipInspection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="PaperClipInspection"></a>
+    <a href="https://github.com/Dalageo/GANScapeGenerator"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=GANScapeGenerator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="GANScapeGenerator"></a>
+    <a href="https://github.com/Dalageo/ML-GasSensorDrift"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-GasSensorDrift&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-GasSensorDrift"></a>
+  </p>
 </div>
-
-<p align="center">
-  <a href="https://github.com/Dalageo/PaperClipInspection"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=PaperClipInspection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="PaperClipInspection"></a>
-  <a href="https://github.com/Dalageo/GANScapeGenerator"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=GANScapeGenerator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="GANScapeGenerator"></a>
-  <a href="https://github.com/Dalageo/ML-GasSensorDrift"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=ML-GasSensorDrift&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-GasSensorDrift"></a>
-</p>
-
-
-
