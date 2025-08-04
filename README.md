@@ -55,7 +55,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 <br>
 <br>
 
-<h2 align="left">Technical Skills</h2>
+<h2 align="left">Technical Stack</h2>
 
 <table align="center">
 <tr>
