@@ -32,7 +32,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </div>
 
 <div align="right">
-  <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 300px; height: 300px;" align="right">
+  <img src="https://github.com/Dalageo/Dalageo/assets/153513781/4860c345-06d4-462d-b5e3-337fcdb7f2cd" alt="Brain-gif" style="width: 100%; max-width: 400px; height: 350px;" align="right">
 </div>
 
 <div align="left">
@@ -55,7 +55,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 <br>
 <br>
 
-<h2 align="left">My Core Expertise</h2>
+<h2 align="left">Technical Skills</h2>
 
 <table align="center">
 <tr>
