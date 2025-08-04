@@ -78,10 +78,10 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     </td>
     <td>
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6f451de1-a7ce-48fb-b133-964b200d2ed3" alt="fastapi" width="40" height="40"/></a> &nbsp;
-      <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" height="90"/></a> &nbsp;
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/></a> &nbsp;
-      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="40" height="40"/></a> &nbsp;
       <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/023f1a25-82a3-4804-9e6b-fed8549151e5" alt="redis" width="40" height="40"/></a> &nbsp;
+      <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" height="90"/></a> &nbsp;
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/></a> &nbsp;
       <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" height="38"/></a> &nbsp;
     </td>
 </tr>
@@ -90,12 +90,12 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
       <strong>Cloud &amp; DevOps</strong>
     </td>
     <td>
-      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> &nbsp;
       <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b0cee235-900d-4975-8fb2-69e4119f32f3" alt="gcp" width="40" height="40"/></a> &nbsp;
+      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/545a6cf9-0068-4ff4-947e-845b7fbc264b" alt="azure" width="40" height="40"/></a> &nbsp;
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" height="40"/></a> &nbsp;
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
-      <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" height="40"/></a> &nbsp;
       <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/63e6d73f-2a14-48de-b5ff-5d3939639e0d" alt="cloudflare" width="40" height="40"/></a> &nbsp;
+      <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" height="40"/></a> &nbsp;
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
     </td>
 </tr>
 <tr>
@@ -117,10 +117,10 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
       <strong>Generative AI &amp; LLMs</strong>
     </td>
     <td>
-      <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/></a> &nbsp;
-      <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/></a> &nbsp;
-      <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mistral-ai.svg" alt="mistral" width="40" height="40"/></a> &nbsp;
-      <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/aa89e4b7-5873-4341-a25d-700e64b20d15" alt="langsmith" width="40" height="60"/></a> &nbsp;
+      <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/124f4ade-50ae-4e35-bc13-ecbbecfea024" alt="gemini" width="40" height="40"/></a> &nbsp;
+      <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ca7fc82-c450-4a5f-8854-8141bc283450" alt="openai" width="40" height="40"/></a> &nbsp;
+      <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e674aba0-e20b-48b0-b67e-d43d9e9facc4" alt="mistral" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/aa89e4b7-5873-4341-a25d-700e64b20d15" alt="langsmith" width="45" height="70"/></a> &nbsp;
     </td>
 </tr>
 <tr>
@@ -129,6 +129,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     </td>
     <td>
       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Vs-logo" width="39" height="39"/></a> &nbsp;
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/807ae247-bc92-47c1-9a1d-0a4cdb0d5feb" alt="Vscode-logo" width="39" height="39"/></a> &nbsp;
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="40" height="40"/></a> &nbsp;
     </td>
 </tr>
