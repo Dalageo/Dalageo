@@ -59,7 +59,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 
 <table align="center">
 <tr>
-    <td align="center" width="220">
+    <td align="left" width="220">
       <strong>Programming Languages</strong>
     </td>
     <td>
@@ -73,7 +73,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     </td>
 </tr>
 <tr>
-    <td align="center">
+    <td align="left">
       <strong>Backend Development</strong>
     </td>
     <td>
@@ -86,7 +86,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     </td>
 </tr>
 <tr>
-    <td align="center">
+    <td align="left">
       <strong>Cloud &amp; DevOps</strong>
     </td>
     <td>
@@ -95,16 +95,15 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" height="40"/></a> &nbsp;
       <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/63e6d73f-2a14-48de-b5ff-5d3939639e0d" alt="cloudflare" width="40" height="40"/></a> &nbsp;
       <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" height="40"/></a> &nbsp;
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
     </td>
 </tr>
 <tr>
-    <td align="center">
+    <td align="left">
       <strong>Machine Learning &amp; Data Science</strong>
     </td>
     <td>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> &nbsp;
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/></a> &nbsp;
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> &nbsp;
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> &nbsp;
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> &nbsp;
       <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1777bff1-6479-4d26-b849-5dee86759a96" alt="Numpy-logo" width="40" height="40"/></a> &nbsp;
@@ -113,7 +112,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     </td>
 </tr>
 <tr>
-    <td align="center">
+    <td align="left">
       <strong>Generative AI &amp; LLMs</strong>
     </td>
     <td>
@@ -124,17 +123,18 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     </td>
 </tr>
 <tr>
-    <td align="center">
-      <strong>Development Environments</strong>
+    <td align="left">
+      <strong>IDE & Version Control</strong>
     </td>
     <td>
       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Vs-logo" width="39" height="39"/></a> &nbsp;
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/807ae247-bc92-47c1-9a1d-0a4cdb0d5feb" alt="Vscode-logo" width="39" height="39"/></a> &nbsp;
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="40" height="40"/></a> &nbsp;
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="43" height="43"/></a> &nbsp;
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
     </td>
 </tr>
 <tr>
-    <td align="center">
+    <td align="left">
       <strong>Industrial Engineering &amp; Automation</strong>
     </td>
     <td>
