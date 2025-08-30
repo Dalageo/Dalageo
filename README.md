@@ -46,10 +46,10 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
-  <a href="mailto:kon.dalageorgos@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="konstantinos dalageorgos" height="40" width="40"></a> &nbsp;
-  <a href="https://linkedin.com/in/konstantinos-dalageorgos" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="konstantinos dalageorgos" height="38" width="40"></a> &nbsp;
-  <a href="https://huggingface.co/Dalageo" target="blank"> <img align="center" src="https://github.com/user-attachments/assets/7d8d1514-5c09-4834-ae96-f895313489b4" alt="HuggingFace" height="40" width="40"></a> 
-  <a href="https://www.kaggle.com/dalageo" target="blank"> <img align="center" src="https://github.com/user-attachments/assets/11162eac-4c5d-4bf8-9f54-351832c58654" alt="Kaggle Profile" height="47" width="35"></a>
+  <a href="mailto:kon.dalageorgos@gmail.com" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="konstantinos dalageorgos" height="40" width="40"></a> &nbsp;
+  <a href="https://linkedin.com/in/konstantinos-dalageorgos" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="konstantinos dalageorgos" height="38" width="40"></a> &nbsp;
+  <a href="https://huggingface.co/Dalageo" target="_blank"> <img align="center" src="https://github.com/user-attachments/assets/7d8d1514-5c09-4834-ae96-f895313489b4" alt="HuggingFace" height="40" width="40"></a> 
+  <a href="https://www.kaggle.com/dalageo" target="_blank"> <img align="center" src="https://github.com/user-attachments/assets/11162eac-4c5d-4bf8-9f54-351832c58654" alt="Kaggle Profile" height="47" width="35"></a>
 </p>
 
 <br>
@@ -66,10 +66,10 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="40" height="40"/></a> &nbsp;
-      <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1503a7d8-6b0b-40b7-9cca-af81582142f0" alt="ASM-logo" width="43" height="43"/></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="40" height="40"/></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/599f4828-cffd-4ffc-bdb0-d4a0551fa466" alt="HTML-logo" width="35" height="50"/></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18cde7f-d58e-483f-a24b-dc3a44111a3c" alt="SQL-logo" width="40" height="40"/></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1503a7d8-6b0b-40b7-9cca-af81582142f0" alt="ASM-logo" width="43" height="43"/></a> &nbsp;
     </td>
 </tr>
 <tr>
@@ -113,11 +113,12 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 </tr>
 <tr>
     <td align="left">
-      <strong>Generative AI &amp; LLMs</strong>
+      <strong>Language & Vision Models</strong>
     </td>
     <td>
       <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/124f4ade-50ae-4e35-bc13-ecbbecfea024" alt="gemini" width="40" height="40"/></a> &nbsp;
       <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ca7fc82-c450-4a5f-8854-8141bc283450" alt="openai" width="40" height="40"/></a> &nbsp;
+      <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/adc0e5fe-0526-48ee-bc03-8c894d8825a7" alt="llama" width="40" height="40"/></a> &nbsp;
       <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e674aba0-e20b-48b0-b67e-d43d9e9facc4" alt="mistral" width="40" height="40"/></a> &nbsp;
       <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/aa89e4b7-5873-4341-a25d-700e64b20d15" alt="langsmith" width="45" height="70"/></a> &nbsp;
     </td>
