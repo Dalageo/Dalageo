@@ -37,11 +37,11 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 
 <div align="left">
   
-* Learning, Building & Growing at&nbsp; <a href="https://www.carettaresearch.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/c193769d-6172-4617-ba33-376838dedf1c" alt="caretta" height="18" width="18"> </a>
-* Actively Working on Projects, trust me - **they exist**&nbsp; <a href="https://github.com/Dalageo" target="_blank"> <img src="https://github.com/user-attachments/assets/bcdc6b04-0a86-42d6-b414-cc993781f848" alt="github" height="15" width="15"> 
-* Keeping Myself Updated 📚
-* Always Open to Collaborating on Exciting Projects 🤝  
-* Feel Free to Ask Me Any Questions 💬  
+* Learning, building & growing at&nbsp; <a href="https://www.carettaresearch.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/c193769d-6172-4617-ba33-376838dedf1c" alt="caretta" height="18" width="18"> </a>
+* Actively working on projects, trust me...**they exist**&nbsp; <a href="https://github.com/Dalageo" target="_blank"> <img src="https://github.com/user-attachments/assets/bcdc6b04-0a86-42d6-b414-cc993781f848" alt="github" height="15" width="15"> 
+* Keeping myself updated 📚
+* Always open to collaborating on exciting projects 🤝  
+* Feel free to ask me any questions 💬  
 </div>
 
 <h3 align="left">Find Me On:</h3>
